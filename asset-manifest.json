@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webjateng/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webjateng/static/js/main.74205ded.chunk.js",
+    "main.js.map": "/webjateng/static/js/main.74205ded.chunk.js.map",
+    "runtime-main.js": "/webjateng/static/js/runtime-main.0dac9c6a.js",
+    "runtime-main.js.map": "/webjateng/static/js/runtime-main.0dac9c6a.js.map",
+    "static/css/2.92df89b0.chunk.css": "/webjateng/static/css/2.92df89b0.chunk.css",
+    "static/js/2.16da7b08.chunk.js": "/webjateng/static/js/2.16da7b08.chunk.js",
+    "static/js/2.16da7b08.chunk.js.map": "/webjateng/static/js/2.16da7b08.chunk.js.map",
+    "index.html": "/webjateng/index.html",
+    "precache-manifest.e92cacda8a28da7c06a718cb17ed0dd2.js": "/webjateng/precache-manifest.e92cacda8a28da7c06a718cb17ed0dd2.js",
+    "service-worker.js": "/webjateng/service-worker.js",
+    "static/css/2.92df89b0.chunk.css.map": "/webjateng/static/css/2.92df89b0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/webjateng/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16da7b08.chunk.js.LICENSE.txt": "/webjateng/static/js/2.16da7b08.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/webjateng/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/webjateng/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dac9c6a.js",
+    "static/css/2.92df89b0.chunk.css",
+    "static/js/2.16da7b08.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.74205ded.chunk.js"
+  ]
+}
